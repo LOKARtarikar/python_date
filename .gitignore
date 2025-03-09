@@ -1,0 +1,39 @@
+# ========== Python 项目专用 ==========
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+*.code-workspace
+
+# 本地生成文件
+research_notes.txt
+dialogue_record.docx
+*.png
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志与调试
+*.log
+*.tmp
+
+# 忽略构建目录和二进制文件
+build/
+build_temp/
+*.exe
+*.pkg
+*.bin
+
+# 大文件/文档
+*.docx
+*.pdf
+*.zip
